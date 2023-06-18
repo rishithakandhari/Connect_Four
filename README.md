@@ -9,6 +9,8 @@ Game is also known as Four Up, lot Four, Find Four, Four in a Row, Four in a Lin
 Rules:
 
 • Before starting the game, players decide randomly which of them will be the beginner; moves are made alternatively, one by turn.
+
 • Moves entails in placing new pieces on the board; pieces slide downwards from upper holes, falling down to the last row or piling up on the last piece introduced in the same   column. So, in every turn the introduced piece may be placed at most on seven different squares.
+
 • When you can connect four pieces vertically, horizontally or diagonally you win otherwise you lose.
 
